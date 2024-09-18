@@ -1,0 +1,38 @@
+html {
+  background-image: url(img/black-color-some-history-and-trends.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+div {
+  text-align: center;
+  width: 750px;
+  margin: auto;
+  border: solid;
+  padding: 15px 15px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  background-color: rgb(138, 131, 131);
+}
+
+p {
+  font-size: 18px;
+}
+
+img {
+  width: 600px;
+  padding: 30px 30px;
+}
+
+h2 {
+  letter-spacing: 1px;
+}
+
+.lists {
+  text-align: left;
+  padding-left: 150px;
+}
+
+a:hover {
+  color: navy;
+}
